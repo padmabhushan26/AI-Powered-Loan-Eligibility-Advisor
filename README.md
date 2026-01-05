@@ -2,7 +2,7 @@
 
 > *Empowering smarter financial decisions with artificial intelligence.*
 
-![Project Banner](https://github.com/Sivanandinisaravanakumar/AI-Powered-Loan-Eligibility-Advisor/blob/main/static/loann.png)  
+![Project Banner](https://github.com/padmabhushan26/AI-Powered-Loan-Eligibility-Advisor/blob/main/static/loann.png)  
 
 ---
 
@@ -91,7 +91,7 @@ AI-Powered-Loan-Eligibility-Advisor/
 
 1. **Clone the repository**
    
-    git clone https://github.com/Sivanandinisaravanakumar/AI-Powered-Loan-Eligibility-Advisor.git
+    git clone https://github.com/padmabhushan26/AI-Powered-Loan-Eligibility-Advisor.git
    
     cd AI-Powered-Loan-Eligibility-Advisor
 
@@ -214,6 +214,6 @@ Sivanandini Saravanakumar
 AI Intern | Infosys Springboard
 
 Email: sivanandini.sk@gmail.com   |
-[🔗 LinkedIn ](https://www.linkedin.com/in/sivanandini-saravanakumar-313287259/)  | 
-[🔗 GitHub ](https://github.com/Sivanandinisaravanakumar)
+[🔗 LinkedIn ](https://www.linkedin.com/in/padmabhushan26)  | 
+[🔗 GitHub ](https://github.com/padmabhushan26)
  
