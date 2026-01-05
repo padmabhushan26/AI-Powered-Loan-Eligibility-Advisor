@@ -209,11 +209,11 @@ This project is licensed under the MIT License — see the LICENSE file for deta
 ---
 
 ### 👥 Author
-Sivanandini Saravanakumar
+PAYASAM PADMABHUSHAN REDDY
 
 AI Intern | Infosys Springboard
 
-Email: sivanandini.sk@gmail.com   |
+Email: padmabhushanreddypayasam@gmail.com   |
 [🔗 LinkedIn ](https://www.linkedin.com/in/padmabhushan26)  | 
 [🔗 GitHub ](https://github.com/padmabhushan26)
  
